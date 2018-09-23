@@ -10,7 +10,8 @@ export class GithubService{
     private client_secret = 'ae701bfc8e1d481e8bfd349a2aebf4cbe1c9f87d';
 
     constructor(private _http:Http){
-        console.log('Github Service Init...');
+        console.log('Github Service Init... Welcome by ZECOLLOKARIS');
+        this.username = 'zecollokaris'
     }
 
     getUser(){

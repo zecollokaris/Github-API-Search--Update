@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, } from '@angular/core';
 import {GithubService} from '../services/github.service';
 
 @Component({
@@ -16,7 +16,7 @@ export class GithubComponent {
     username: string;
 
     constructor(private _githubService:GithubService){
-        console.log('Github Component Init...');
+        console.log('Github Component Init... ENGINES READY TO SEARCH USER!!');
 
     }
 
