@@ -10,15 +10,19 @@ import {GithubService} from '../services/github.service';
 export class GithubComponent { 
 
     user:any;
+
+    repos:any;
     
     constructor(private _githubService:GithubService){
         console.log('Github Component Init...');
 
         this._githubService.getUser().subscribe(user => {
-
             // console.log(users);
-
             this.user = user;
+        });
+
+        this._githubService.getRepos().subscribe(repos => {
+            this.repos = repos;
         });
     }
 
