@@ -8,4 +8,6 @@ import { GithubService } from './services/github.service';
   templateUrl: 'app.component.html'
   
 })
-export class AppComponent  { }
+export class AppComponent  { 
+  
+}
