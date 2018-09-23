@@ -21,6 +21,8 @@ export class GithubComponent {
     }
 
         search(){
+            this._githubService.updateUsername(this.username)
+
             this._githubService.getUser().subscribe(user => {
                 // console.log(users);
                 this.user = user;
