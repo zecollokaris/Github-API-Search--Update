@@ -13,25 +13,24 @@ export class GithubComponent {
 
     repos:any;
     
-    username: string;
+    username:string;
 
     constructor(private _githubService:GithubService){
         console.log('Github Component Init... ENGINES READY TO SEARCH USER!!');
+    }
+    
+    search(){
+        this._githubService.updateUsername(this.username);
 
+        this._githubService.getUser().subscribe(user => {
+            // console.log(users);
+            this.user = user;
+        });
+
+        this._githubService.getRepos().subscribe(repos => {
+            this.repos = repos;
+        });
     }
 
-        search(){
-            this._githubService.updateUsername(this.username)
-
-            this._githubService.getUser().subscribe(user => {
-                // console.log(users);
-                this.user = user;
-            });
-
-            this._githubService.getRepos().subscribe(repos => {
-                this.repos = repos;
-            });
-        }
-    
 
 }
