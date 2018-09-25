@@ -8,7 +8,7 @@ import {GithubService} from '../services/github.service';
     providers:[GithubService]
 })
 export class GithubComponent { 
-
+    searchName: 'zecollokaris'
     user:any;
 
     repos:any;
