@@ -62,3 +62,11 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 5. **Clone** the project.
 
 6. Once you done with cloning and project is on your device.
+
+7. get into project folder (cd into project).
+
+8. On your **bash** terminal Run the command:- 
+
+    ```
+    ng serve.
+    ```
