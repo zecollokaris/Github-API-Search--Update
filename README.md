@@ -56,4 +56,9 @@ If you dont have this requirements you could use the link above to help with the
 Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 
 
-4. From there you can access Quotes.
+4. From there you can access Git-search.
+
+
+5. **Clone** the project.
+
+6. Once you done with cloning and project is on your device.
