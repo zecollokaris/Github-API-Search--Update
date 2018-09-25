@@ -70,3 +70,10 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
     ```
     ng serve.
     ```
+
+9. Open your prefered **web browser** and load it on local host:
+
+    ```
+    http://localhost:4200/
+    ```
+
