@@ -22,3 +22,8 @@ GitHub API was used to retrieve this information. This API allows ***5,000*** re
 
 # Prerequisites
 
+To work with Git-Search you need to have some few preresuisites.
+
+This include the following mentioned however if you dont have the set below 
+
+you can check the checkout the following link for installation instructions~
