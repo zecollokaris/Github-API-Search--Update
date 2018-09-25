@@ -28,7 +28,7 @@ This include the following mentioned however if you dont have the set below
 
 you can check the checkout the following link for installation instructions~
 
-Link~  ```https://github.com/zecollokaris/Github-API-Search--Update```
+Link~  ```https://github.com/zecollokaris/Installation```
 
 - Node.js
 
@@ -45,3 +45,15 @@ If you dont have this requirements you could use the link above to help with the
 
 # **SETUP/INSTALLATION.**
 
+**To work With this cli {follow the below instructions for set up.}**
+
+1. You will need Internet connection.
+
+2. You will also need a Webpage URL to load in URL's:
+
+3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search-Angular repository. 
+
+Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
+
+
+4. From there you can access Quotes.
