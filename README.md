@@ -80,3 +80,5 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 10. This will load for you Quotes as long as your requirements are satisfied.
 
 
+# TECHNOLOGIES USED
+
