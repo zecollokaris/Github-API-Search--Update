@@ -82,3 +82,12 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 
 # TECHNOLOGIES USED
 
+1. Angular version 6 (Framework)
+
+2. Type Script
+
+3. Javascript
+
+4. Bootstrap
+
+5. CSS
