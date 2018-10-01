@@ -1,7 +1,9 @@
-# GITHUB-SEARCH-API
+# GITHUB-SEARCH-API-Angular-JS
 
 
 ### **This project was done using ANGULAR-JS.** 
+
+### **However an update has been using Angular 6.**
 
 # DESCRIPTION
 
