@@ -74,7 +74,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 9. Open your prefered **web browser** and load it on local host:
 
     ```
-    http://localhost:4200/
+    http://localhost:3000/
     ```
 
 10. This will load for you Quotes as long as your requirements are satisfied.
@@ -82,7 +82,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 
 # TECHNOLOGIES USED
 
-1. Angular version 6 (Framework)
+1. AngularJS version (Framework)
 
 2. Type Script
 
@@ -96,7 +96,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 ## Development server
 ---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
 ## Support and Contact
 ---
@@ -114,7 +114,3 @@ The app is licensed by MIT.
 
 MIT (c) 2018
 
-## Further help
----
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
