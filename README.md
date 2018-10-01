@@ -1,7 +1,7 @@
 # GITHUB-SEARCH-API
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+### **This project was done using ANGULAR-JS.** 
 
 # DESCRIPTION
 
@@ -32,7 +32,7 @@ Link~  ```https://github.com/zecollokaris/Installation```
 
 - Node.js
 
-- Angular framework
+- Angular-JS framework
 
 - Watchman
 
@@ -53,7 +53,7 @@ If you dont have this requirements you could use the link above to help with the
 
 3. To get to use **GIT-SEARCH** fist you need to get to the Github-API-Search-Angular repository. 
 
-Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
+Link:-> ```https://github.com/zecollokaris/Github-API-Search-AngularJS```
 
 
 4. From there you can access Git-search.
@@ -68,7 +68,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 8. On your **bash** terminal Run the command:- 
 
     ```
-    ng serve.
+    npm start.
     ```
 
 9. Open your prefered **web browser** and load it on local host:
@@ -77,7 +77,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
     http://localhost:3000/
     ```
 
-10. This will load for you Quotes as long as your requirements are satisfied.
+10. This will load for you Github Search as long as your requirements are satisfied.
 
 
 # TECHNOLOGIES USED
@@ -96,7 +96,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search--Update```
 ## Development server
 ---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
+Run `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
 
 ## Support and Contact
 ---
