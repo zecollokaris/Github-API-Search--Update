@@ -12,13 +12,12 @@ export class GithubComponent {
     user:any;
 
     repos:any;
-    
+
     username:string;
 
     constructor(private _githubService:GithubService){
         console.log('Github Component Init... ENGINES READY TO SEARCH USER!!');
     }
-    
     search(){
         this._githubService.updateUsername(this.username);
 
