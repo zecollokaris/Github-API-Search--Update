@@ -5,7 +5,7 @@
 
 ### **However an update has been using Angular 6.**
 
-### Checkout the link for updated latest Version -> ```https://github.com/zecollokaris/Angular-API-Search--Update-Angular-v6```
+#### Checkout the link for updated latest Version -> ```https://github.com/zecollokaris/Angular-API-Search--Update-Angular-v6```
 
 # DESCRIPTION
 
