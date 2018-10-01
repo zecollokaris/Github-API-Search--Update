@@ -8,9 +8,7 @@
 #### ***Checkout the link for updated latest Version*** :point_down:
 
 -> ```https://github.com/zecollokaris/Angular-API-Search--Update-Angular-v6```
-
-
-#DISPLAY
+# DISPLAY
 
 ![](spec.md/gitsearchJS.png)
 
