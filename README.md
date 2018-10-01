@@ -84,7 +84,7 @@ Link:-> ```https://github.com/zecollokaris/Github-API-Search-AngularJS```
 
 # TECHNOLOGIES USED
 
-1. AngularJS version (Framework)
+1. Angular-JS version (Framework)
 
 2. Type Script
 
